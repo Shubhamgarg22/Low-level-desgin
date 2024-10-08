@@ -1,2 +1,2 @@
 # Low-level-desgin
-In this this repo all are LLD project
+I'm going to upload all my future low-level design (LLD) projects
